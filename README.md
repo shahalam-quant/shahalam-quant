@@ -83,9 +83,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- ## 🔝 Most used languages & Activity Graph -->
 
-<p align="center">
+<!--  <p align="center">
     <a href="#">
     <img height="198px" alt="Mohammad Shah Alam's Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahalam-quant&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" />
-    </a>
-    <!-- <a href="#"><img width="48%" alt="saroven's Contribution graph" src="https://activity-graph.herokuapp.com/graph?username=shahalam-quant&theme=dracula" height="200px"/></a> -->
-</p>
+    </a> 
+</p> -->
