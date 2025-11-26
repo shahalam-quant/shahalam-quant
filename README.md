@@ -2,13 +2,13 @@
 
 [comment]: <> ( <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=23&center=true&lines=Backend+Developer;Always+learning+new+things;Always+open+to+collaborate"></a>)
 
--  🧑🏻‍💻 Junior Software Engineer at [Quant Fintech Limited](https://quantfintech.ai/ ).
+-  🧑🏻‍💻 Software Engineer at [Quant Fintech Limited](https://quantfintech.ai/ ).
 
 -  📖 Completed Bachelor of Science in Computer Science and Engineering from [Green University of Bangladesh](https://green.edu.bd/).
 
 -  💡 Always open to collaborating on projects and innovative ideas.
 
--  💻 Currently learning [Nuxt.js](https://www.w3schools.com/html/)
+-  💻 Currently learning [React.js](https://react.dev/)
 
 Find out more about me & feel free to connect with me here:
 
